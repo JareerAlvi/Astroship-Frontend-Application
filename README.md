@@ -44,4 +44,4 @@ npm run dev
 
 Open browser at the shown local URL
 
-🌍 Live Demo : [Astroship} 
+🌍 Live Demo : [[Astroship](https://astroship-responsive-react-app.vercel.app/)]
